@@ -1,16 +1,21 @@
-## Hi there 👋
+👋 Hi, I’m Manish Sharma
 
-<!--
-**manishsharma28/manishsharma28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Software Developer with 5+ years of experience building scalable
+backend systems, cloud-native applications, and full-stack products.
 
-Here are some ideas to get you started:
+🚀 I work with Node.js, React, AWS, and PostgreSQL to build production-grade software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠 Tech Stack
+- Frontend: React, React Native
+- Backend: Node.js, Express, FastAPI
+- Databases: PostgreSQL, MySQL, MongoDB
+- Cloud & DevOps: AWS, Jenkins, CI/CD
+
+🏗 Currently building SaaS products at Turicks
+
+📌 Featured projects are pinned below
+
+📫 Contact
+Email: manishhp28@gmail.com
+Website: https://turicks.com
+LinkedIn: https://linkedin.com/in/manish-sharma-a09a3a366
