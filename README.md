@@ -1,4 +1,4 @@
-# Hi 👋 I'm Manish Sharma
+# Hi, I'm Manish Sharma
 
 🚀 **Senior Software Developer** with **5+ years of experience** building scalable backend systems, cloud-native deployments, and full-stack SaaS products.
 
