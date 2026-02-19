@@ -35,7 +35,7 @@ I work mainly with **Node.js, React, AWS, and PostgreSQL**, and I love automatin
 ---
 
 ## 🎓 Education
-- **M.Tech (2018–2020)** — PEC Chandigarh (Fingerprint Recognition Thesis)  
+- **M.Tech (2018–2020)** — PEC Chandigarh (Partial Fingerprint Recognition Thesis)  
 - **B.Tech (2012–2016)** — HPU Shimla  
 
 ---
